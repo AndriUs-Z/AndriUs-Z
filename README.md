@@ -1,8 +1,8 @@
 ## Hello 👋
 
-✨ ##About me 
+## ✨ About me 
 <!--
-**AndriUs-Z/AndriUs-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AndriUs-Z/AndriUs-Z** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
