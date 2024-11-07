@@ -1,6 +1,8 @@
 ## Hello 👋
 
 ## ✨ About me 
+
+  Hello, my name is Rungtiwa Puknert. You can call me by my nickname as Winner.
 <!--
 **AndriUs-Z/AndriUs-Z** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
